@@ -7,21 +7,21 @@
   },
   {
     "full_name": "writewithocto/ink",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "writewithocto/octo",
-    "stargazers_count": 207,
-    "open_issues_count": 11,
+    "stargazers_count": 209,
+    "open_issues_count": 12,
     "forks_count": 13
   },
   {
     "full_name": "SortableJS/Vue.Draggable",
-    "stargazers_count": 16118,
-    "open_issues_count": 155,
-    "forks_count": 2461
+    "stargazers_count": 16149,
+    "open_issues_count": 158,
+    "forks_count": 2466
   },
   {
     "full_name": "tapestry-cloud/website",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "gridsome/gridsome",
-    "stargazers_count": 7929,
-    "open_issues_count": 542,
+    "stargazers_count": 7934,
+    "open_issues_count": 541,
     "forks_count": 467
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 10084,
-    "open_issues_count": 397,
-    "forks_count": 1218
+    "stargazers_count": 10116,
+    "open_issues_count": 393,
+    "forks_count": 1230
   },
   {
     "full_name": "palashmon/JavaScript30",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "understrap/understrap",
-    "stargazers_count": 2783,
-    "open_issues_count": 31,
-    "forks_count": 925
+    "stargazers_count": 2785,
+    "open_issues_count": 33,
+    "forks_count": 928
   },
   {
     "full_name": "esmero/archipelago-deployment",
@@ -62,37 +62,37 @@
   {
     "full_name": "esmero/strawberryfield",
     "stargazers_count": 9,
-    "open_issues_count": 58,
+    "open_issues_count": 59,
     "forks_count": 3
   },
   {
     "full_name": "imyelo/docsify-pagination",
     "stargazers_count": 75,
     "open_issues_count": 8,
-    "forks_count": 29
+    "forks_count": 28
   },
   {
     "full_name": "twbs/bootstrap",
-    "stargazers_count": 153354,
-    "open_issues_count": 419,
-    "forks_count": 74943
+    "stargazers_count": 153402,
+    "open_issues_count": 422,
+    "forks_count": 74965
   },
   {
     "full_name": "agentejo/cockpit",
-    "stargazers_count": 5118,
-    "open_issues_count": 277,
+    "stargazers_count": 5120,
+    "open_issues_count": 278,
     "forks_count": 533
   },
   {
     "full_name": "apache/incubator-weex",
     "stargazers_count": 14004,
     "open_issues_count": 248,
-    "forks_count": 1857
+    "forks_count": 1858
   },
   {
     "full_name": "vuelidate/vuelidate",
-    "stargazers_count": 6105,
-    "open_issues_count": 111,
+    "stargazers_count": 6109,
+    "open_issues_count": 110,
     "forks_count": 446
   },
   {
