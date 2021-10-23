@@ -7,21 +7,21 @@
   },
   {
     "full_name": "writewithocto/ink",
-    "stargazers_count": 38,
+    "stargazers_count": 40,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "writewithocto/octo",
     "stargazers_count": 210,
-    "open_issues_count": 11,
+    "open_issues_count": 9,
     "forks_count": 13
   },
   {
     "full_name": "SortableJS/Vue.Draggable",
-    "stargazers_count": 16170,
-    "open_issues_count": 158,
-    "forks_count": 2469
+    "stargazers_count": 16192,
+    "open_issues_count": 160,
+    "forks_count": 2474
   },
   {
     "full_name": "tapestry-cloud/website",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "gridsome/gridsome",
-    "stargazers_count": 7938,
-    "open_issues_count": 541,
+    "stargazers_count": 7939,
+    "open_issues_count": 542,
     "forks_count": 468
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 10149,
-    "open_issues_count": 399,
-    "forks_count": 1239
+    "stargazers_count": 10166,
+    "open_issues_count": 413,
+    "forks_count": 1247
   },
   {
     "full_name": "palashmon/JavaScript30",
@@ -50,7 +50,7 @@
   {
     "full_name": "understrap/understrap",
     "stargazers_count": 2790,
-    "open_issues_count": 33,
+    "open_issues_count": 34,
     "forks_count": 928
   },
   {
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "twbs/bootstrap",
-    "stargazers_count": 153470,
+    "stargazers_count": 153510,
     "open_issues_count": 432,
-    "forks_count": 75009
+    "forks_count": 75042
   },
   {
     "full_name": "agentejo/cockpit",
-    "stargazers_count": 5123,
+    "stargazers_count": 5125,
     "open_issues_count": 278,
     "forks_count": 533
   },
@@ -92,8 +92,8 @@
   {
     "full_name": "vuelidate/vuelidate",
     "stargazers_count": 6111,
-    "open_issues_count": 111,
-    "forks_count": 447
+    "open_issues_count": 109,
+    "forks_count": 448
   },
   {
     "full_name": "yangirov/vue-date-dropdown",
