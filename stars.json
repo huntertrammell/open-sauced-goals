@@ -7,21 +7,21 @@
   },
   {
     "full_name": "writewithocto/ink",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "writewithocto/octo",
-    "stargazers_count": 215,
+    "stargazers_count": 216,
     "open_issues_count": 10,
     "forks_count": 13
   },
   {
     "full_name": "SortableJS/Vue.Draggable",
-    "stargazers_count": 16757,
-    "open_issues_count": 177,
-    "forks_count": 2589
+    "stargazers_count": 16761,
+    "open_issues_count": 178,
+    "forks_count": 2588
   },
   {
     "full_name": "tapestry-cloud/website",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "gridsome/gridsome",
-    "stargazers_count": 8078,
+    "stargazers_count": 8085,
     "open_issues_count": 555,
-    "forks_count": 483
+    "forks_count": 484
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 12005,
-    "open_issues_count": 528,
-    "forks_count": 1463
+    "stargazers_count": 12026,
+    "open_issues_count": 531,
+    "forks_count": 1470
   },
   {
     "full_name": "palashmon/JavaScript30",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "understrap/understrap",
-    "stargazers_count": 2834,
+    "stargazers_count": 2837,
     "open_issues_count": 25,
-    "forks_count": 945
+    "forks_count": 944
   },
   {
     "full_name": "esmero/archipelago-deployment",
@@ -73,26 +73,26 @@
   },
   {
     "full_name": "twbs/bootstrap",
-    "stargazers_count": 155202,
-    "open_issues_count": 478,
-    "forks_count": 76023
+    "stargazers_count": 155268,
+    "open_issues_count": 486,
+    "forks_count": 76048
   },
   {
     "full_name": "agentejo/cockpit",
-    "stargazers_count": 5217,
+    "stargazers_count": 5220,
     "open_issues_count": 280,
     "forks_count": 540
   },
   {
     "full_name": "apache/incubator-weex",
-    "stargazers_count": 13975,
+    "stargazers_count": 13974,
     "open_issues_count": 248,
     "forks_count": 1858
   },
   {
     "full_name": "vuelidate/vuelidate",
-    "stargazers_count": 6233,
-    "open_issues_count": 112,
+    "stargazers_count": 6236,
+    "open_issues_count": 111,
     "forks_count": 462
   },
   {
@@ -104,7 +104,7 @@
   {
     "full_name": "timoxley/columnify",
     "stargazers_count": 396,
-    "open_issues_count": 26,
+    "open_issues_count": 20,
     "forks_count": 33
   }
 ]
