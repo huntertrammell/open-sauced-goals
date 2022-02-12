@@ -13,15 +13,15 @@
   },
   {
     "full_name": "writewithocto/octo",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 10,
     "forks_count": 13
   },
   {
     "full_name": "SortableJS/Vue.Draggable",
-    "stargazers_count": 16776,
-    "open_issues_count": 180,
-    "forks_count": 2590
+    "stargazers_count": 16792,
+    "open_issues_count": 181,
+    "forks_count": 2595
   },
   {
     "full_name": "tapestry-cloud/website",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "gridsome/gridsome",
-    "stargazers_count": 8086,
-    "open_issues_count": 556,
-    "forks_count": 482
+    "stargazers_count": 8091,
+    "open_issues_count": 552,
+    "forks_count": 483
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 12059,
-    "open_issues_count": 533,
-    "forks_count": 1472
+    "stargazers_count": 12073,
+    "open_issues_count": 531,
+    "forks_count": 1475
   },
   {
     "full_name": "palashmon/JavaScript30",
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "understrap/understrap",
-    "stargazers_count": 2837,
-    "open_issues_count": 29,
+    "stargazers_count": 2841,
+    "open_issues_count": 30,
     "forks_count": 947
   },
   {
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "twbs/bootstrap",
-    "stargazers_count": 155337,
-    "open_issues_count": 471,
-    "forks_count": 76080
+    "stargazers_count": 155394,
+    "open_issues_count": 455,
+    "forks_count": 76102
   },
   {
     "full_name": "agentejo/cockpit",
-    "stargazers_count": 5225,
+    "stargazers_count": 5227,
     "open_issues_count": 280,
     "forks_count": 540
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "vuelidate/vuelidate",
-    "stargazers_count": 6242,
+    "stargazers_count": 6243,
     "open_issues_count": 112,
-    "forks_count": 462
+    "forks_count": 461
   },
   {
     "full_name": "yangirov/vue-date-dropdown",
@@ -105,6 +105,6 @@
     "full_name": "timoxley/columnify",
     "stargazers_count": 396,
     "open_issues_count": 20,
-    "forks_count": 33
+    "forks_count": 34
   }
 ]
