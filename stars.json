@@ -8,20 +8,20 @@
   {
     "full_name": "writewithocto/ink",
     "stargazers_count": 54,
-    "open_issues_count": 3,
+    "open_issues_count": 7,
     "forks_count": 4
   },
   {
     "full_name": "writewithocto/octo",
     "stargazers_count": 232,
-    "open_issues_count": 16,
+    "open_issues_count": 19,
     "forks_count": 14
   },
   {
     "full_name": "SortableJS/Vue.Draggable",
-    "stargazers_count": 17345,
+    "stargazers_count": 17353,
     "open_issues_count": 194,
-    "forks_count": 2684
+    "forks_count": 2686
   },
   {
     "full_name": "tapestry-cloud/website",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "gridsome/gridsome",
-    "stargazers_count": 8210,
+    "stargazers_count": 8212,
     "open_issues_count": 565,
-    "forks_count": 495
+    "forks_count": 496
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 13402,
-    "open_issues_count": 561,
-    "forks_count": 1689
+    "stargazers_count": 13469,
+    "open_issues_count": 562,
+    "forks_count": 1695
   },
   {
     "full_name": "palashmon/JavaScript30",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "understrap/understrap",
-    "stargazers_count": 2870,
-    "open_issues_count": 60,
-    "forks_count": 950
+    "stargazers_count": 2871,
+    "open_issues_count": 61,
+    "forks_count": 948
   },
   {
     "full_name": "esmero/archipelago-deployment",
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "twbs/bootstrap",
-    "stargazers_count": 157356,
-    "open_issues_count": 355,
-    "forks_count": 76686
+    "stargazers_count": 157473,
+    "open_issues_count": 346,
+    "forks_count": 76714
   },
   {
     "full_name": "agentejo/cockpit",
-    "stargazers_count": 5304,
+    "stargazers_count": 5309,
     "open_issues_count": 290,
     "forks_count": 546
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "vuelidate/vuelidate",
-    "stargazers_count": 6340,
+    "stargazers_count": 6343,
     "open_issues_count": 123,
-    "forks_count": 469
+    "forks_count": 468
   },
   {
     "full_name": "yangirov/vue-date-dropdown",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "timoxley/columnify",
-    "stargazers_count": 408,
+    "stargazers_count": 409,
     "open_issues_count": 21,
     "forks_count": 34
   }
