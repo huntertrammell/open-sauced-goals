@@ -8,7 +8,7 @@
   {
     "full_name": "writewithocto/ink",
     "stargazers_count": 59,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 4
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "SortableJS/Vue.Draggable",
-    "stargazers_count": 17502,
-    "open_issues_count": 198,
-    "forks_count": 2704
+    "stargazers_count": 17517,
+    "open_issues_count": 200,
+    "forks_count": 2705
   },
   {
     "full_name": "tapestry-cloud/website",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "gridsome/gridsome",
-    "stargazers_count": 8235,
+    "stargazers_count": 8238,
     "open_issues_count": 573,
     "forks_count": 493
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 13673,
-    "open_issues_count": 521,
-    "forks_count": 1736
+    "stargazers_count": 13704,
+    "open_issues_count": 535,
+    "forks_count": 1743
   },
   {
     "full_name": "palashmon/JavaScript30",
@@ -50,7 +50,7 @@
   {
     "full_name": "understrap/understrap",
     "stargazers_count": 2879,
-    "open_issues_count": 64,
+    "open_issues_count": 65,
     "forks_count": 950
   },
   {
@@ -68,20 +68,20 @@
   {
     "full_name": "imyelo/docsify-pagination",
     "stargazers_count": 85,
-    "open_issues_count": 10,
+    "open_issues_count": 0,
     "forks_count": 31
   },
   {
     "full_name": "twbs/bootstrap",
-    "stargazers_count": 158080,
-    "open_issues_count": 375,
-    "forks_count": 76815
+    "stargazers_count": 158136,
+    "open_issues_count": 377,
+    "forks_count": 76822
   },
   {
     "full_name": "agentejo/cockpit",
-    "stargazers_count": 5327,
-    "open_issues_count": 293,
-    "forks_count": 549
+    "stargazers_count": 5331,
+    "open_issues_count": 294,
+    "forks_count": 550
   },
   {
     "full_name": "apache/incubator-weex",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "vuelidate/vuelidate",
-    "stargazers_count": 6376,
-    "open_issues_count": 125,
-    "forks_count": 471
+    "stargazers_count": 6379,
+    "open_issues_count": 126,
+    "forks_count": 473
   },
   {
     "full_name": "yangirov/vue-date-dropdown",
@@ -105,6 +105,6 @@
     "full_name": "timoxley/columnify",
     "stargazers_count": 410,
     "open_issues_count": 21,
-    "forks_count": 34
+    "forks_count": 33
   }
 ]
